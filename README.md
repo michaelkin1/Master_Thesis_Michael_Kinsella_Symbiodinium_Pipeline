@@ -10,4 +10,4 @@ The Pipeline will enable future research to analyse these cells in
 ![image](https://github.com/michaelkin1/Master_Thesis_Symbiodinium_Michael_Kinsella/assets/128709384/bd712502-eded-4688-8efb-4c7a97aec15c)
 
 
-### The pipeline is in the jupyter notebook named MM_pipeline on the master branch 
+### You can find the pipeline in the JupyterLab notebook 'MM_pipeline.ipynb'
