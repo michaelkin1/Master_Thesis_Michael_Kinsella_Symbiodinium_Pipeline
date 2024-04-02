@@ -11,3 +11,7 @@ The pipeline will serve as a tool and enable future research to analyse these ce
 
 
 ### You can find the pipeline in the JupyterLab notebook 'MM_pipeline.ipynb'
+
+### Instructions: 
+Pip install ”napari[all]” 
+pip install ipympl
