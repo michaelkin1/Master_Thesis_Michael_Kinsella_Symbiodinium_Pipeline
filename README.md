@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Overview:
 This work in progress project features microscopy data of Symbiodiniaceae cells, gathered from a so-called mother machine. The mother machine originally developed by Wang et al. in 2010, is a microfluidic instrument able to, in a high-throughput manner, track individual cell lineages over multiple generations. The mother machine has a series of horizontal growth traps connected to a main trench where a flow of growth media is transported to the growth channels to ensure proper regulation of cell growth. 
 
@@ -11,3 +12,6 @@ The Pipeline will enable future research to analyse these cells in
 
 
 ### The pipeline is in the jupyter notebook named MM_pipeline on the master branch 
+=======
+### This branch currently contains all jupyterlab notebooks used during the project. The main notebook is 'MM_pipeline' which contains the entire pipeline
+>>>>>>> 6cbb1e95181254bf5b09a4a5e6c4d9d6581e6e5c
