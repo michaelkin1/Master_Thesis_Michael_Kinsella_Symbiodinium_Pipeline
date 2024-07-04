@@ -1,24 +1,23 @@
-<<<<<<< HEAD
-### Overview:
-This work in progress project features microscopy data of Symbiodiniaceae cells, gathered from a so-called mother machine. The mother machine, originally developed by Wang et al. in 2010, is a microfluidic instrument able to, in a high-throughput manner, track individual cell lineages over multiple generations. The mother machine has a series of horizontal growth traps connected to a main trench where a flow of growth media is transported to the growth channels to ensure proper regulation of cell growth.
+# Developing an Image Analysis Pipeline for Insights into Symbiodiniaceae Growth and Morphology 
 
-The project aims to create a semi-automatic pipeline in Python to crop the growth channels, segment and track the Symbiodiniaceae cells, and extract features such as growth rate, texture features, etc. The pipeline will serve as a tool and enable future research to analyze these cells in various environmental conditions.
+### Project Overview 
+Welcome to the repository for the master's degree project on Symbiodiniaceae cell microscopy data, conducted using a custom-built mother machine device. Originally developed by Wang et al. in 2010, the mother machine is a microfluidic instrument designed for high-throughput tracking of individual cell lineages across multiple generations. It features a series of horizontal growth traps connected to a main trench, where a continuous flow of growth media regulates cell growth in controlled conditions.
+
+#### Overview of the Pipeline 
+![image](https://github.com/michaelkin1/Master_Thesis_Michael_Kinsella_Symbiodinium_Pipeline/assets/128709384/b4a14b42-aad2-4d32-bc40-fed69e6053e6)
+
+### Project Goals
+This project establishes the foundational framework for a JupyterLab pipeline dedicated to segmenting population-wide growth and morphological features of Symbiodiniaceae cells. As development progresses, this pipeline will evolve into a robust tool enabling future researchers to analyze Symbiodiniaceae cells under diverse environmental conditions.
 
 
-### Example image of data:
+### Thesis Paper
+For a comprehensive understanding of this project, please refer to the master's thesis document:
 
-![image](https://github.com/michaelkin1/Master_Thesis_Symbiodinium_Michael_Kinsella/assets/128709384/bd712502-eded-4688-8efb-4c7a97aec15c)
+- [Link to Master's Thesis on DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-534140)
 
 
-<<<<<<< HEAD
-### The pipeline is in the jupyter notebook named MM_pipeline on the master branch 
-=======
-### This branch currently contains all jupyterlab notebooks used during the project. The main notebook is 'MM_pipeline' which contains the entire pipeline
->>>>>>> 6cbb1e95181254bf5b09a4a5e6c4d9d6581e6e5c
-=======
-### You can find the pipeline in the JupyterLab notebook 'MM_pipeline.ipynb'
+The thesis provides detailed insights into the methodologies, experimental setup, results, and conclusions of the study on Symbiodiniaceae cells and the JupyterLab pipeline development.
 
-### Instructions: 
-Pip install ”napari[all]” 
-pip install ipympl
->>>>>>> 811ce406ebbcca101bcaaeb921ca45b8eb010123
+
+### How to Use This Repository
+
