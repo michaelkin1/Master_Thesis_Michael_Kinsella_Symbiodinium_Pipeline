@@ -21,3 +21,23 @@ The thesis provides detailed insights into the methodologies, experimental setup
 
 ### How to Use This Repository
 
+In your terminal/command prompt enter the following: 
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
+
+2. Create the environment with dependencies:
+  
+    ```bash
+    conda env create -f environment.yml
+    
+3. Activate your environment:
+   
+    ```bash
+    conda activate your_environment_name
+
+4. 
+    
