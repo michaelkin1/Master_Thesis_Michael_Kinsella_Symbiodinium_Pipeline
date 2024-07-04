@@ -52,7 +52,6 @@ In the terminal/command prompt enter the following:
     ```bash
     conda activate symbiopipeline
 
-
 Now open Anaconda NAvigator, choose your new 'symbiopipeline' environment, install and launch JupyterLab and follow the instructions in the notebook. 
 
 
