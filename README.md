@@ -21,23 +21,38 @@ The thesis provides detailed insights into the methodologies, experimental setup
 
 ### How to Use This Repository
 
-In your terminal/command prompt enter the following: 
+#### Setup 
+We recommend using Anaconda Navigator for managing the Python environment required for this project. Here’s how you can get started:
 
-1. Clone the repository:
+**Download Anaconda:** If you haven't already, download and install Anaconda from [Anaconda's official website](https://www.anaconda.com/products/distribution).
+
+#### Cloning Repositroy and Setup for Pipeline
+Start by creating a folder where you want your cloned files to be created. 
+
+In the terminal/command prompt enter the following: 
+
+1. Navigate to you new folder :
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   cd path/to/your/desired/directory
 
-2. Create the environment with dependencies:
+2. Clone the repository:
+
+   ```bash
+   git clone https://github.com/michaelkin1/Master_Thesis_Michael_Kinsella_Symbiodinium_Pipeline.git
+   cd Master_Thesis_Michael_Kinsella_Symbiodinium_Pipeline
+
+3. Create the environment with dependencies:
   
     ```bash
     conda env create -f environment.yml
     
-3. Activate your environment:
+4. Activate your environment:
    
     ```bash
-    conda activate your_environment_name
+    conda activate symbiopipeline
 
-4. 
-    
+
+Now open Anaconda NAvigator, choose your new 'symbiopipeline' environment, install and launch JupyterLab and follow the instructions in the notebook. 
+
+
